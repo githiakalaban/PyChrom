@@ -23,5 +23,5 @@ setup(
     classifiers=classifiers,
     keywords='chromatography, chemometrics, data preprocessing',
     packages=find_packages(),
-    install_requires=['numpy', 'scipy', 'sklearn']
+    install_requires=['numpy', 'scipy', 'scikit-learn']
 )
